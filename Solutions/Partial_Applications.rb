@@ -1,3 +1,9 @@
+#/*
+# * 
+# * Aman Upadhyay
+# * Amity University Kolkata
+# * 
+#*/
 def factorial(n)
     1.upto(n).reduce(1, :*)
 end
