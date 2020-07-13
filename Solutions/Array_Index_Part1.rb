@@ -1,3 +1,9 @@
+#/*
+# * 
+# * Aman Upadhyay
+# * Amity University Kolkata
+# * 
+#*/
 def element_at(arr, index)
     return arr.at(index)
 end
