@@ -1,3 +1,9 @@
+#/*
+# * 
+# * Aman Upadhyay
+# * Amity University Kolkata
+# * 
+#*/
 def sum_terms(n)
     1.upto(n).reduce(0) do |m, x|
       m + fn(x)
