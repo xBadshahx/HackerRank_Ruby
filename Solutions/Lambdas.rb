@@ -1,3 +1,9 @@
+#/*
+# * 
+# * Aman Upadhyay
+# * Amity University Kolkata
+# * 
+#*/
 square      = -> (i) {i * i} 
 plus_one    = -> (i) {i + 1}
 into_2      = -> (i) {2 * i}
