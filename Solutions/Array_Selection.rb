@@ -1,3 +1,9 @@
+#/*
+# * 
+# * Aman Upadhyay
+# * Amity University Kolkata
+# * 
+#*/
 def select_arr(arr)
     return arr.delete_if &:even?
 end
