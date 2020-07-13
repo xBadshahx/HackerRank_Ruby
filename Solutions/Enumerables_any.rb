@@ -1,3 +1,9 @@
+#/*
+# * 
+# * Aman Upadhyay
+# * Amity University Kolkata
+# * 
+#*/
 def func_any(hash)
     hash.any?{|key,value| key.is_a? Integer}
 end
