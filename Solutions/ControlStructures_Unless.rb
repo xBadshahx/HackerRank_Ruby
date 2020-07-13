@@ -1,3 +1,9 @@
+#/*
+# * 
+# * Aman Upadhyay
+# * Amity University Kolkata
+# * 
+#*/
 def scoring(array)
     array.each do |arr|
         arr.update_score unless arr.is_admin?
