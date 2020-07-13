@@ -1,3 +1,9 @@
+#/*
+# * 
+# * Aman Upadhyay
+# * Amity University Kolkata
+# * 
+#*/
 def iter_hash(hash)
     # your code her
    hash.each do|h|
