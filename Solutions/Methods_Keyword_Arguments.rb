@@ -1,3 +1,9 @@
+#/*
+# * 
+# * Aman Upadhyay
+# * Amity University Kolkata
+# * 
+#*/
 def convert_to_celsius t, input_scale
     case input_scale.to_sym
     when :celsius then t
