@@ -1,3 +1,9 @@
+#/*
+# * 
+# * Aman Upadhyay
+# * Amity University Kolkata
+# * 
+#*/
 def strike(text)
     return "<strike>#{text}</strike>"
 end
