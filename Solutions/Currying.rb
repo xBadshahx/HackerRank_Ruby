@@ -1,3 +1,9 @@
+#/*
+# * 
+# * Aman Upadhyay
+# * Amity University Kolkata
+# * 
+#*/
 power_function = -> (x, z) {
     (x) ** z
 }
